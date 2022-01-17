@@ -6,7 +6,7 @@ of each vertex using a 3d array.
 
 The program reads from a given file inputted by the user that must be formatted like so:
 
-NAME x1,y1 x2,y2 x3,y3 xn,yn x1,y1
+NAME X1,Y1 X2,Y2 X3,Y3 Xn,Yn X1,Y1
 
 (The included test file is titled sample_routes.txt and can be edited to the viewers liking)
 
