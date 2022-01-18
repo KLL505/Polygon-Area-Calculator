@@ -1,6 +1,0 @@
-Thrawn  4.50
-Kallus  9.00
-Krennic  12.00
-Cylo  24.00
-Tarkin  161.50
-Test  202.85
