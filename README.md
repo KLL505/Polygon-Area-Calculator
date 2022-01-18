@@ -12,7 +12,7 @@ must be formatted like so:
 
 [NAME] [X1,Y1] [X2,Y2] [X3,Y3] [Xn,Yn] [X1,Y1]
 
-(The included test file is titled sample_routes.txt and can be edited for further testing)
+(The included test driver file is titled sample_routes.txt and can be edited for further testing)
 
 The program can read any amount of drivers and coordinates due to the 3d array being dynamic. 
 The line must end in the starting vertex to indicate the end of the polygon and to 
@@ -36,6 +36,7 @@ the linked list for any driver whose area matches that number and will display t
 [NAME] - if just a string is present within a line of the command file, the program will search
 the linked list for any driver whose name matches that string and will display that driver object to the console.
 
+(The included test commands file is titled sample_commands.txt and can be edited for further testing)
 
 
 
