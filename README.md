@@ -10,7 +10,7 @@ delivery routes.
 The program creates the linked list by reading from a given file inputted by the user that 
 must be formatted like so:
 
-[NAME] [X1,Y1] [X2,Y2] [X3,Y3] [Xn,Yn] 
+[NAME] [X1,Y1] [X2,Y2] [X3,Y3] [Xn,Yn] [X1,Y1]
 
 (The included test driver file is titled sample_routes.txt and can be edited for further testing)
 
